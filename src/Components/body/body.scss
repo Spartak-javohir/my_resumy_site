@@ -1,0 +1,53 @@
+.body {
+  //   width: 100%;
+  list-style: none;
+  box-sizing: border-box;
+  padding: 0;
+  padding-top: 20px;
+}
+.social_media {
+  width: 100%;
+  padding: 15px 0;
+}
+.social_link {
+  display: flex;
+  //   width: 100%;
+  color: white;
+  text-decoration: none;
+  align-items: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  //   padding: 5px 10px;
+}
+.socal_icon {
+  width: 40px;
+}
+.social_name {
+  color: white;
+  padding-left: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.social_link_git {
+  background-color: rgb(46, 43, 43);
+}
+.social_link_insta {
+  background-color: rgb(175, 20, 151);
+}
+.social_link_teleg {
+  background-color: rgb(13, 105, 233);
+}
+.social_link_lind {
+  background-color: #230de9;
+}
+.social_link_face {
+  background-color: rgb(13, 57, 233);
+}
+span {
+  padding: 10px;
+  border-right: 1px solid grey;
+  padding-right: 10px;
+}

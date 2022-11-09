@@ -1,0 +1,46 @@
+.head {
+  // width: 100%;
+  display: flex;
+  align-items: center;
+  // text-align: center;
+}
+.myphoto {
+  width: 20%;
+  border-radius: 50%;
+  background-color: rgb(235, 233, 233);
+  padding: 15px;
+  padding-bottom: 0;
+}
+.head_info {
+  padding-left: 20px;
+}
+.my_name {
+  color: white;
+  font-size: 42px;
+  font-weight: normal;
+  padding: 7px 0;
+  margin: 0;
+}
+.local_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border: 0.5px solid #4d82e4;
+  color: #4d82e4;
+  padding: 0 5px;
+  width: 200px;
+}
+
+.local_icon {
+  width: 8.5%;
+}
+.local_info {
+  padding-left: 10px;
+}
+.age_my {
+  color: rgb(202, 197, 197);
+}
